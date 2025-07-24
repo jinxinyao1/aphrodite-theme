@@ -32,9 +32,7 @@ Designed for 2560x1440 resolution with a soft, mysterious aura and golden glow.
 <img width="2560" height="1266" alt="image" src="https://github.com/user-attachments/assets/f7f56506-02b0-4002-a361-d53680cdcddf" />
 
 
-| Toolbar | Tabs | New Tab |
-|--------|------|----------|
-| ![Toolbar](https://user-images.githubusercontent.com/your-toolbar.png) | ![Tabs](https://user-images.githubusercontent.com/your-tabs.png) | ![NewTab](https://user-images.githubusercontent.com/your-newtab.png) |
+
 
 ---
 
