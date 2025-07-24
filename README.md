@@ -38,7 +38,7 @@ Designed for 2560x1440 resolution with a soft, mysterious aura and golden glow.
 
 > *Aphrodite* was born from the sea foam and arrived in the world riding a seashell — this theme seeks to bring a little of that same timeless beauty to your browser.
 
-Made with ❤️ by [@jinxinyao1](https://github.com/jinxinyao1)
+Made with ❤️ by [@lightofsea](https://github.com/lightofsea)
 
 ---
 
