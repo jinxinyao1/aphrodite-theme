@@ -3,8 +3,6 @@
 A delicate and elegant Chrome theme inspired by **Aphrodite**, the goddess of beauty and love.  
 Designed for 2560x1440 resolution with a soft, mysterious aura and golden glow.
 
-![Preview](https://user-images.githubusercontent.com/your-screenshot.png)
-
 ---
 
 ## 🎨 Features
